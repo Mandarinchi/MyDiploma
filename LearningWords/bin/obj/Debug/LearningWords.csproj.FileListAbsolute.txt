@@ -1,0 +1,87 @@
+D:\Электронно-обучающая программа\Электронно-обучающая программа\bin\Debug\Data\Data.mdf
+D:\Электронно-обучающая программа\Электронно-обучающая программа\bin\Debug\Data\Data_log.ldf
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Admin.baml
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Control_Work.baml
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Create_words_window.baml
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Lessons\Lesson_1.baml
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\MainWindow.baml
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Name_of_theme.baml
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\OKR_Creater.baml
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Pages\Rules.baml
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Password_for_OKR.baml
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Prepod_Profile.baml
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Registration.baml
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Test_window.baml
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Theme_window.baml
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Variant.baml
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Admin.g.cs
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Control_Work.g.cs
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Create_words_window.g.cs
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Lessons\Lesson_1.g.cs
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\MainWindow.g.cs
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Name_of_theme.g.cs
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\OKR_Creater.g.cs
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Pages\Rules.g.cs
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Password_for_OKR.g.cs
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Prepod_Profile.g.cs
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Registration.g.cs
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Test_window.g.cs
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Theme_window.g.cs
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\Variant.g.cs
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\App.g.cs
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\LearningWords.csproj.GenerateResource.cache
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\LearningWords.csproj.CoreCompileInputs.cache
+D:\Электронно-обучающая программа\Электронно-обучающая программа\bin\Debug\LearningWords.exe.config
+D:\Электронно-обучающая программа\Электронно-обучающая программа\bin\Debug\LearningWords.exe
+D:\Электронно-обучающая программа\Электронно-обучающая программа\bin\Debug\LearningWords.pdb
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\LearningWords_Content.g.cs
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\LearningWords_MarkupCompile.cache
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\LearningWords_MarkupCompile.lref
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\LearningWords.g.resources
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\LearningWords.Properties.Resources.resources
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\LearningWords.exe
+D:\Электронно-обучающая программа\Электронно-обучающая программа\obj\Debug\LearningWords.pdb
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\LearningWords.csprojAssemblyReference.cache
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Admin.g.cs
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Control_Work.g.cs
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Create_words_window.g.cs
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Lessons\Lesson_1.g.cs
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\MainWindow.g.cs
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Name_of_theme.g.cs
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\OKR_Creater.g.cs
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Pages\Rules.g.cs
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Password_for_OKR.g.cs
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Prepod_Profile.g.cs
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Registration.g.cs
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Test_window.g.cs
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Theme_window.g.cs
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Variant.g.cs
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\App.g.cs
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\LearningWords_Content.g.cs
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\LearningWords_MarkupCompile.cache
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\LearningWords_MarkupCompile.lref
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\LearningWords.exe
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\LearningWords.pdb
+D:\Электронно-обучающая программа\LearningWords\bin\Debug\Data\Data.mdf
+D:\Электронно-обучающая программа\LearningWords\bin\Debug\Data\Data_log.ldf
+D:\Электронно-обучающая программа\LearningWords\bin\Debug\LearningWords.exe.config
+D:\Электронно-обучающая программа\LearningWords\bin\Debug\LearningWords.exe
+D:\Электронно-обучающая программа\LearningWords\bin\Debug\LearningWords.pdb
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Admin.baml
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Control_Work.baml
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Create_words_window.baml
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Lessons\Lesson_1.baml
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\MainWindow.baml
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Name_of_theme.baml
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\OKR_Creater.baml
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Pages\Rules.baml
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Password_for_OKR.baml
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Prepod_Profile.baml
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Registration.baml
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Test_window.baml
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Theme_window.baml
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\Variant.baml
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\LearningWords.g.resources
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\LearningWords.Properties.Resources.resources
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\LearningWords.csproj.GenerateResource.cache
+D:\Электронно-обучающая программа\LearningWords\obj\Debug\LearningWords.csproj.CoreCompileInputs.cache
