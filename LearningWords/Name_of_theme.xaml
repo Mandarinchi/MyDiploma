@@ -1,0 +1,15 @@
+﻿<Window x:Class="LearningWords.Name_of_theme"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LearningWords"
+        mc:Ignorable="d"
+        Title="Название темы" Height="138" Width="406.4" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize" Icon="self-study_250.ico">
+    <Grid>
+        <TextBox x:Name="Name_of_theme_txbox" HorizontalAlignment="Left" Height="23" Margin="113,39,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="277"/>
+        <Label Content="Название темы:" HorizontalAlignment="Left" Margin="10,35,0,0" VerticalAlignment="Top" Width="103"/>
+        <Button Content="Применить" HorizontalAlignment="Left" Margin="315,79,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+
+    </Grid>
+</Window>

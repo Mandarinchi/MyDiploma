@@ -1,0 +1,49 @@
+﻿<Window x:Class="LearningWords.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LearningWords"
+        mc:Ignorable="d"
+        Title="Профиль Студента" Height="450" Width="800" ResizeMode="CanMinimize" Icon="self-study_250.ico" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="301*"/>
+            <ColumnDefinition Width="493*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="depositphotos_160392568-stock-photo-icons-graduation-cap-illustration.jpg"/>
+        </Grid.Background>
+
+
+
+
+        <ListBox Name="List" Margin="374.4,0,-0.4,0" Grid.Column="1"  >
+
+
+
+        </ListBox>
+        <Rectangle x:Name="Scroll_Bar" Fill="White" HorizontalAlignment="Left" Height="420" Stroke="White" VerticalAlignment="Top" Width="287"/>
+        <Label x:Name="Sername" Content="Имя, Фамилия студента" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="245" FontFamily="Tempus Sans ITC" FontSize="15" FontWeight="Bold"/>
+        <Label x:Name="Point" Content="Балы: " HorizontalAlignment="Left" Margin="0,45,0,0" VerticalAlignment="Top" Width="255" Background="White" Foreground="#FF1CA800"/>
+        <Label x:Name="amount_wrong_words" Content="Кол-во неправильных слов: " HorizontalAlignment="Left" Margin="0,71,0,0" VerticalAlignment="Top" Foreground="#FFF01919" Width="277"/>
+        <Label x:Name="amount_theme" Content="Кол-во пройденных тем: " HorizontalAlignment="Left" Margin="0,123,0,0" VerticalAlignment="Top" Width="255" Foreground="#FF17C4E5"/>
+        <Button x:Name="arrow_left" Content="" HorizontalAlignment="Left" Margin="255,0,0,0" VerticalAlignment="Top" Width="32" Height="40" Click="Button_Click_3" Foreground="Black" BorderBrush="White">
+            <Button.Background>
+                <ImageBrush ImageSource="Стрелка влево.jpg"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="arrow_Right" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="32" Height="40" Click="Button_Click_right" BorderBrush="White">
+            <Button.Background>
+                <ImageBrush ImageSource="Стрелка вправо.jpg"/>
+            </Button.Background>
+        </Button>
+        <Label x:Name="amount_right_words" Content="Кол-во правильных слов:" HorizontalAlignment="Left" Margin="0,97,0,0" VerticalAlignment="Top" Foreground="#FFCAD11C" Width="255"/>
+        <Label x:Name="Last_complete_theme" Content="Последняя пройденная тема:" HorizontalAlignment="Left" Margin="0,149,0,0" VerticalAlignment="Top" Foreground="#FFB020E2" Width="255"/>
+        <Button Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="294.2,374,0,0" VerticalAlignment="Top" Width="75" Height="36" BorderBrush="White" Click="Button_Click_4">
+            <Button.Background>
+                <ImageBrush ImageSource="Lessons/Anonymous_arrow_next_Left.jpg"/>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>
